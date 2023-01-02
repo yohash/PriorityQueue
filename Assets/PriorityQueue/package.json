@@ -1,0 +1,23 @@
+{
+  "name": "com.yohash.priorityqueue
+  "version": "0.1.0",
+  "displayName": "Priority Queue",
+  "description": "This is an implementation of the Priority Queue in C#, for use with Unity.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/yohash/PriorityQueue",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": { },
+  "gitDependencies": { },
+  "keywords": [
+    "priority",
+    "queue
+  ],
+  "author": {
+    "name": "Jason Heebl",
+    "email": "jdheebl@gmail.com",
+    "url": "https://www.heebl.com"
+  },
+  "type": "tool"
+}
