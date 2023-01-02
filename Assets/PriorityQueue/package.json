@@ -1,5 +1,5 @@
 {
-  "name": "com.yohash.priorityqueue
+  "name": "com.yohash.priorityqueue",
   "version": "0.1.0",
   "displayName": "Priority Queue",
   "description": "This is an implementation of the Priority Queue in C#, for use with Unity.",
